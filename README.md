@@ -1,0 +1,2 @@
+# torekuru_gacha_Simulator
+reactjsの課題提出先リポジトリ
